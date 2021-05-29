@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Name of the website</title>
+</head>
+<body>
+<h1>Heading for the content below</h1>
+<p>Text text text</p>
+<p>This is after adding</p>
+<table>
+<tbody>
+<tr>
+<th>1st column</th>
+<th>2nd column</th>
+</tr>
+<tr>
+<td>Row 1, column 1</td>
+<td>Row 1, column 2</td>
+</tr>
+<td>Row 2, column 1</td>
+<td>Row 2, column 2</td>
+</tbody>
+</table>
+</body>
+</html>
